@@ -1,2 +1,2 @@
-# Lesons-JS
-Уроки JS
+# js-lesson1
+
