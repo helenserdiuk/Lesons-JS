@@ -8,10 +8,10 @@
 </head>
 <body>
     <script>
-        "use strict";
-
-        user = "Алекс";
-        console.log(user);
+        const heightFoot = +prompt("Сколько у вас футов");
+        const heightInch = Number(prompt("Сколько в вас дюймов"));
+        const height = (heightFoot*12 + heightInch) * 2.54;
+        console.log(height);
     </script>
 </body>
 </html>
